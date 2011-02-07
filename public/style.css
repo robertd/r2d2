@@ -3,8 +3,6 @@ body {line-height:1.5;}
 table {border-collapse:separate;border-spacing:0;}
 caption, th, td {text-align:left;font-weight:normal;}
 table, td, th {vertical-align:middle;}
-blockquote:before, blockquote:after, q:before, q:after {content:"";}
-blockquote, q {quotes:"" "";}
 a img {border:none;}
 
 body {font-size:75%;color:#222;background:#fff;font-family: 'Helvetica Neue', 'Helvetica Neue Light', helvetica, arial, sans-serif;}
@@ -92,17 +90,6 @@ div#nav a {text-decoration: none;}
 	
 h2.col-header, h2.widgettitle {border-bottom: solid 1px #ddd; color: #333}
 h2.col-header a {text-decoration:none; border: none;}
-
-#sidebar {}
-#sidebar ul li {padding: 1px 0;}
-#sidebar .block,#sidebar .widget {margin-bottom: 20px}
-
-h2.col-header, h2.widgettitle {font-weight: normal;}
-.widget ul {list-style:none; margin-left:  0;}
-.widget ul li {border-bottom: dashed 1px #ddd; margin: 2px 0;}
-.widget ul li a {text-decoration: none; border: 0px; }
-
-form#searchform input{width: 208px}
 
 #footer {color: #999; padding-top: 10px; margin-top: 20px; background-color: #222; position: relative;min-height: 200px;}
 #footer .content-row {margin-bottom: 0; padding-bottom: 10px;}
